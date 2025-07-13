@@ -1,0 +1,2 @@
+# Exploring-and-visualizingiris-eda-ml-showcase-a-simple-Dataset
+A complete Exploratory Data Analysis (EDA) &amp; Machine Learning starter project on the classic Iris dataset!   - 📊 Visualizations: Histograms, Boxplots, Scatter Plots   - 🔍 Data Quality Checks: Outliers, Distributions   - 🤖 ML Ready: Preprocessed data for classification tasks    Perfect for beginners to learn EDA or pros to reuse as a template!  

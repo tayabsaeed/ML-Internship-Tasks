@@ -1,4 +1,4 @@
-🏠 **House Price Prediction using XGBoost**
+⁸🏠 **House Price Prediction using XGBoost**
 
 A complete **House Price Prediction** project using the popular **House Price Prediction Dataset**.  
 This project covers **EDA → Feature Engineering → Preprocessing → Model Training → Evaluation** — and includes a **reusable XGBoost regression pipeline**!  

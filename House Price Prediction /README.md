@@ -78,7 +78,7 @@ Perfect for learning regression or applying in real-world housing scenarios.
 
 | Metric              | Value         |
 |---------------------|---------------|
-| MAE (Test Set)      | $53,531       |
+| MAE (Test Set)      | $55,531       |
 | RMSE (Test Set)     | $76,352       |
 | R² Score (Test Set) | 0.805         |
 | CV R² (mean)        | 0.7997        |
